@@ -15,7 +15,7 @@ public class Sql20DepartmentDaoTest {
 
     @BeforeClass
     public static void setUp() throws Exception {
-        DB.sql2o = new Sql2o("jdbc:postgresql://localhost:5432/org_api_test", "moringaschool", "1234psq");
+        DB.sql2o = new Sql2o("jdbc:postgresql://localhost:5432/org_api", "moringaschool", "12345");
         departmentDao = new Sql20DepartmentDao();
         conn = DB.sql2o.open();
     }

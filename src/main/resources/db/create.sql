@@ -1,5 +1,7 @@
 SET MODE PostgreSQL;
 
+CREATE DATABASE org_api;
+
 CREATE TABLE IF NOT EXISTS departments (
 
     id int PRIMARY KEY auto_increment,

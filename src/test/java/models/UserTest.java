@@ -7,7 +7,7 @@ import static org.junit.Assert.*;
 public class UserTest {
 
     public User setUpUser() {
-        return new User("Muchui",2,"junior dev","tech-support","muchui@mycompany.com");
+        return new User("tom",2,"junior dev","tech-support","tom@mycompany.com");
     }
 
     @Test
@@ -28,7 +28,7 @@ public class UserTest {
     public void getName() {
         User user = setUpUser();
         user.setId(0);
-        assertEquals("Muchui",user.getName());
+        assertEquals("tom",user.getName());
     }
 
     @Test
@@ -81,7 +81,7 @@ public class UserTest {
     @Test
     public void getEmail() {
         User user = setUpUser();
-        assertEquals("muchui@mycompany.com",user.getEmail());
+        assertEquals("tom@mycompany.com",user.getEmail());
     }
 
     @Test
