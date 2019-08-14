@@ -15,4 +15,4 @@ git Organisational_API
 
 You need the following installed on your machine
 
- *
+ * java
