@@ -17,4 +17,5 @@ You need the following installed on your machine
 
  * java
  * JDK - Java Development Kit
+ * Maven
 
