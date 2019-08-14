@@ -26,6 +26,8 @@ You need the following installed on your machine
  ##Postman
 
  http://localhost:4567/users
+ http://localhost:4567/departments
+
 
 
 
