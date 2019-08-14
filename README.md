@@ -7,3 +7,4 @@
 ####  Tom
 
 ## Getting Started
+Clone this repository to your local machine to get Started
