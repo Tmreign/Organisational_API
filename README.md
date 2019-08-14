@@ -12,3 +12,7 @@ Clone this repository to your local machine to get Started
 git Organisational_API
 
 #### Prerequisites
+
+You need the following installed on your machine
+
+ *
