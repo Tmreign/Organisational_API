@@ -33,7 +33,7 @@ You need the following installed on your machine
  For more info or feedback, feel free to contact us on tomwanyoike9@gmail.com
 
 
- ##licences
+ ## licences
 This project is licensed under the MIT License. Copyright (c) 2019 Tom Wanyoike
 
 
