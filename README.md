@@ -18,4 +18,14 @@ You need the following installed on your machine
  * java
  * JDK - Java Development Kit
  * Maven
+ * Gradle
+ * An IDE - Intellij
+ * Postman - for testing the api
+
+
+ ##Postman
+
+ http://localhost:4567/users
+
+
 
