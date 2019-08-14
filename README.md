@@ -29,5 +29,9 @@ You need the following installed on your machine
  http://localhost:4567/departments
 
 
+ ## Support and contact details
+ For more info or feedback, feel free to contact us on tomwanyoike9@gmail.com
+
+
 
 
